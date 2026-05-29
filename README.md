@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+ Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 29.05.2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+Ultra realistic 3D portrait of a human face, full 360-degree rotation concept, multiple angles of the same face arranged in a circular sequence, cinematic lighting, hyper detailed skin texture, symmetrical face, photorealistic, futuristic studio background, depth of field, 8K quality, octane render, realistic shadows, smooth facial features, dynamic camera angles, professional 3D scan style, immersive view
 
 ### Output:
 
+<img width="891" height="527" alt="WhatsApp Image 2026-05-29 at 11 46 27 AM" src="https://github.com/user-attachments/assets/25970295-4c20-47e8-a08b-20aeb107de51" />
 
-### Name:
-### Register Number:
+
+### Name: POOJA SRI P
+### Register Number: 212224230197
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
