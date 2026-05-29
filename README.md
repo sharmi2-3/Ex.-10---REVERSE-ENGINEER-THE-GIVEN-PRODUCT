@@ -1,4 +1,4 @@
- Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 29.05.2026
 
@@ -35,10 +35,12 @@ Ultra realistic 3D portrait of a human face, full 360-degree rotation concept, m
 
 ### Output:
 
-<img width="796" height="514" alt="image" src="https://github.com/user-attachments/assets/fa994789-ca4f-49fb-9a53-a384c46ff8df" />
+<img width="891" height="527" alt="image" src="https://github.com/user-attachments/assets/023fb509-a329-4d25-942a-e709e07a1059" />
 
-### Name: POOJA SRI P
-### Register Number: 212224230197
+
+
+### Name: SHARMILA P
+### Register Number: 212224220094
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
